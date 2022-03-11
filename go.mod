@@ -1,5 +1,6 @@
 module github.com/V4NSH4J/discord-mass-dm-GO
 
+// +heroku goVersion go1.16
 go 1.16
 
 require (
